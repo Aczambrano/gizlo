@@ -1,5 +1,5 @@
 # AndersonZambrano
 
-En este repositorio estarán dos algoritmos, uno de fibonacci y otro para verificar que una cadena esté equilibrada
- correctamente segun los caracteres especificados, dentro de cada carpeta está el proyecto y un video explicativo de 
-como funciona el código y una prueba funcional
+En este repositorio estarán archivos en los cuales se podrán ver pruebas teóricas en las cuales se ven algoritmos y otros archivos
+de prueba practica en la cual se separará tanto en front-end como en back-end, adicional habrá documentación y un video explicando 
+el funcionamiento de la prueba practica
